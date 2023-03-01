@@ -1,0 +1,5 @@
+theme: AudiAnnotateTheme
+plugins:
+- jekyll-remote-theme
+title: AATheme2's homepage 
+description: AATheme page 2
